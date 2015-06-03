@@ -1,7 +1,8 @@
 body {
-    background-color: #009EA6;
+    background-color: #3F7CAC;
     color: #fff;
     font-family: sans-serif;
+    height: 100%;
 }
 
 .title{
@@ -9,17 +10,15 @@ body {
 }
 
 .left{
-    width: 50%;
-    height: 100%;
+    width: 60%;
     float: left;
     text-align: left;
     padding-left: 10%;
-    margin-top: 15%;
+    margin-top: 10%;
 }
 
 .left-resume{
     width: 50%;
-    height: 100%;
     float: left;
     text-align: left;
     padding-left: 10%;
@@ -27,21 +26,24 @@ body {
 }
 
 .right{
-    margin-top: 0;
-    margin-bottom: 0;
-    width: 30%;
+    height: inherit;
+    top: 0;
+    width: 22%;
     float: right;
-    background-color: #006166;
+    background-color: #ffa95c;
     text-align: center;
-    padding-top: 22%;
-    padding-bottom: 100%;
+    box-shadow: ;
+    right: 0;
+    padding-top: 15%;
+    padding-bottom: 18%;
 }
 
 div.right a {
-    color: #CBDF90;
-/*//    color: #61D095;*/
+    color:#FFF;
     text-decoration: none;
     cursor: auto;
+    font-size: 80%
+
 }
 
 div.left a{
@@ -61,3 +63,10 @@ height: 100%;
 width: 100%
 }
 
+h1 {
+font-size: 300%
+}
+
+h2 {
+font-size: 200%
+}
