@@ -1,8 +1,23 @@
 body {
     background-color: #3993DD ;
     color: #1bffd3;
-    font-family: sans-serif;
+    font-family: "Unity","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
     font-size: 100%;
+
+}
+
+#built{
+    color: #DCFFFD;
+    font-size: 300%;
+    margin: auto;
+    width: 70%;
+    border:3px solid white;
+    padding: 35px;
+
+}
+
+#built a {
+    color: #DCFFFD;
 
 }
 
@@ -16,7 +31,7 @@ body {
     width: 65%;
     float: right;
     text-align: left;
-    margin-top: 10%;
+    margin-top: 8.5%;
     padding-right: 5%;
 }
 
@@ -65,8 +80,8 @@ float: left;
 }
 
 .portfolio1{
-height: 65%;
-width: 65%
+height: 35%;
+width: 35%
 }
 
 h1 {
