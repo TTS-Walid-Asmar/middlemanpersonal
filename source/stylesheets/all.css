@@ -3,6 +3,7 @@ body {
     color: #1bffd3;
     font-family: "Unity","Helvetica Neue","Helvetica","Roboto","Arial",sans-serif;
     font-size: 100%;
+    margin-top: 15%;
 
 }
 
@@ -13,6 +14,7 @@ body {
     width: 70%;
     border:3px solid white;
     padding: 35px;
+    text-align: center;
 
 }
 
